@@ -4,7 +4,7 @@
  ### 🌱 I’m currently learning Python and I am a beginner
  ###💞️ I’m looking to collaborate on (Maybe when I get better) -I hope to make a lot of friends here! That's all!
 
-#My Projects
-### -Rock Paper Scissors Game
-### -Madlibs
-### -Number Guessing Game
+# My Projects
+  ### -Rock Paper Scissors Game
+  ### -Madlibs
+  ### -Number Guessing Game
