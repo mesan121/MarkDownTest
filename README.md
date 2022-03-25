@@ -5,6 +5,6 @@
  ### 💞️ I’m looking to collaborate on (Maybe when I get better) -I hope to make a lot of friends here! That's all!
 
 # My Projects
-  ### -Rock Paper Scissors Game
-  ### -Madlibs
-  ### -Number Guessing Game
+  1. Rock Paper Scissors Game
+  2. Madlibs
+  3. Number Guessing Game
